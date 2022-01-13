@@ -120,4 +120,4 @@ _Проекты:arrow_right:Управление:arrow_right:Комплекты:
 
 ### НО ЕСТЬ ГОТОВЫЙ СКОМПИЛИРОВАННЫЙ [mingw81_64_static.rar](https://drive.google.com/file/d/1rxp86rDyh_zPjD79saI2g_UCNmlRX_hT/view?usp=sharing)
 
-- [Документация QT](https://doc.qt.io/qt-5/configure-options.html)
+### 8. [Документация QT](https://doc.qt.io/qt-5/configure-options.html)
