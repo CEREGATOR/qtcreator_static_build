@@ -34,7 +34,7 @@ _Поиск:arrow_right:Система:arrow_right:Дополнительные 
 
 ![4](https://github.com/CEREGATOR/qtcreator_static_build/blob/main/4.PNG)
 
-### 4. Далее скачиваем исходник QT 15.5.1 или скачем его из git qt-everywhere-src-5.15.1.zip
+### 4. Далее скачиваем исходник QT 15.5.1
 - [Cкачать с сайта qt](https://download.qt.io/official_releases/qt/5.15/5.15.1/single/qt-everywhere-src-5.15.1.zip)
 
 Разархивируйте его в папку Qt , для удобства создайте папку Src или разархивируйте туда 
