@@ -113,7 +113,7 @@ _Проекты:arrow_right:Управление:arrow_right:Комплекты:
 
 ![8](https://github.com/CEREGATOR/qtcreator_static_build/blob/main/8.PNG)
 
-- [Повторяем 5 пукнт](https://github.com/CEREGATOR/qtcreator_static_build#5-запускаем-cmd-и-переходим-в-папку) и добавляем в команду -qt-tiff -qt-webp, полная команду будет выглядить так:
+- [Повторяем 5 пукнт](https://github.com/CEREGATOR/qtcreator_static_build#5-запускаем-cmd-и-переходим-в-папку) и добавляем в команду ```-qt-tiff -qt-webp```, полная команду будет выглядить так:
 
 ```configure -static -debug-and-release -platform win32-g++ -qt-zlib -qt-pcre -qt-libpng -qt-tiff -qt-webp -qt-libjpeg -qt-freetype -opengl desktop -no-angle -no-openssl -opensource -confirm-license -make libs -nomake tools -nomake examples -nomake tests -prefix C:\Qt\5.15.1\mingw81_64_static```
 - И заново создаем сборщик, как в [пункте 5](https://github.com/CEREGATOR/qtcreator_static_build#5-запускаем-cmd-и-переходим-в-папку)
