@@ -17,14 +17,14 @@ Qt устанавливать нужно на диск C
 ### 2. Запускаем установшики Python Perl Ruby (64 битные версии)
 
 Cкачать последнюю версию с сайтов производителей
-- [Python](https://www.python.org/downloads/)
-- [Perl](https://strawberryperl.com/)
-- [Ruby (WITHOUT DEVKIT)](https://rubyinstaller.org/downloads/)
+- [Python x64](https://www.python.org/downloads/)
+- [Perl x64](https://strawberryperl.com/)
+- [Ruby x64 (WITHOUT DEVKIT)](https://rubyinstaller.org/downloads/)
 
 Дальше нужно установить(Устанавливать нужно на диск C):
-- _Python_ последней версии 64 битную
-- _Perl_ последней версии 64 битную
-- _Ruby_ последней версии 64 битную
+- _Python_
+- _Perl_
+- _Ruby_
 
 ### 3. Добавляем пути к программам и библиотекам в параметры системы:
 
