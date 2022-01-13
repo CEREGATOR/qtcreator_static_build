@@ -1,12 +1,12 @@
-# Статическая сборка на основе Qt 15.5.1 MinGWx64 в Windows 10
+# Статическая сборка на основе Qt 5.15.1 MinGWx64 в Windows 10
 
 ### 1. Запускаем _qt-unified-windows-x86-4.2.0-online.exe_
 
 - [Cкачать с сайта Qt](https://download.qt.io/official_releases/online_installers/qt-unified-windows-x86-online.exe)
 
 Qt устанавливать нужно на диск C
-- Установить _Qt 15.5.1 MinGW 8.1.0 32-bit_
-- Установить _Qt 15.5.1 MinGW 8.1.0 64-bit_
+- Установить _Qt 5.15.1 MinGW 8.1.0 32-bit_
+- Установить _Qt 5.15.1 MinGW 8.1.0 64-bit_
 - Установить _Qt Creator 6.0.1 MinGW 8.1.0 32-bit_
 - Установить _Qt Creator 6.0.1 MinGW 8.1.0 64-bit_
 - Установить _Qt Creator 6.0.1 CMake 3.21.1 64-bit_
@@ -34,7 +34,7 @@ _Поиск:arrow_right:Система:arrow_right:Дополнительные 
 
 ![4](https://github.com/CEREGATOR/qtcreator_static_build/blob/main/4.PNG)
 
-### 4. Далее скачиваем исходник QT 15.5.1
+### 4. Далее скачиваем исходник QT 5.15.1
 - [Cкачать с сайта Qt](https://download.qt.io/official_releases/qt/5.15/5.15.1/single/qt-everywhere-src-5.15.1.zip)
 
 Разархивируйте его в папку Qt , для удобства создайте папку Src или разархивируйте туда 
