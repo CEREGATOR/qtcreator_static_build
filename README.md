@@ -105,10 +105,13 @@ _Проекты:arrow_right:Управление:arrow_right:Комплекты:
 
 - И собираем проект для релиза
 
-### 7. ЕСЛИ ВЫЛЕТАЮТ ОШИБКИ cannot found -ltiff, cannot found -lwebp:
-- Можно взять библиотеку tiff из git или [скачать](http://gnuwin32.sourceforge.net/downlinks/tiff-bin-zip.php)
-- Можно взять библиотеку webp из git или [скачать](https://storage.googleapis.com/downloads.webmproject.org/releases/webp/libwebp-1.2.2-rc2-windows-x64.zip)
-- Нужно в папку ```C:\Qt\Tools\``` добавить библиотеки (они находятся в git, разархивируйте их туда и переменуйте папки в ```lift``` и ```libwebp```)
+### 7. ЕСЛИ ВЫЛЕТАЮТ ОШИБКИ: _cannot found -ltiff, cannot found -lwebp_
+Можно взять библиотеку tiff из этого репозитория или [скачать](http://gnuwin32.sourceforge.net/downlinks/tiff-bin-zip.php)
+
+Можно взять библиотеку webp из этого репозитория или [скачать](https://storage.googleapis.com/downloads.webmproject.org/releases/webp/libwebp-1.2.2-rc2-windows-x64.zip)
+
+- Нужно в папку ```C:\Qt\Tools\``` добавить библиотеки
+- Разархивируйте их в папку ```C:\Qt\Tools\``` и переменуйте папки в ```lift``` и ```libwebp```
 - И добавляем пути в систему, как в [пункте 3](https://github.com/CEREGATOR/qtcreator_static_build#3-добавляем-пути-к-программам-и-библиотекам-в-параметры-системы)
 
 ![8](https://github.com/CEREGATOR/qtcreator_static_build/blob/main/8.PNG)
