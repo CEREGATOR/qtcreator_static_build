@@ -53,7 +53,7 @@ C:\Users\Cereg>cd..
 C:\Users>cd..
 C:\>cd Qt
 C:\Qt>cd Src
-C:\Qt\Src>cd qt-everywhere-src-5.15
+C:\Qt\Src>cd qt-everywhere-src-5.15.1
 C:\Qt\Src\qt-everywhere-src-5.15.1>
 ```
 
