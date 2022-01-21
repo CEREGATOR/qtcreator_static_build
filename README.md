@@ -14,9 +14,9 @@ Qt устанавливать нужно на диск C
 ![2](https://github.com/CEREGATOR/qtcreator_static_build/blob/main/2.PNG)
 ![3](https://github.com/CEREGATOR/qtcreator_static_build/blob/main/3.PNG)
 
-### 2. Запускаем установшики Python Perl Ruby (64 битные версии)
+### 2. Запускаем установшики Python, Perl, Ruby (64 битные версии)
 
-Cкачать последнюю версию с сайтов производителей
+Cкачать последнюю версию с сайтов производителей:
 - [Python x64](https://www.python.org/downloads/)
 - [Perl x64](https://strawberryperl.com/)
 - [Ruby x64 (WITHOUT DEVKIT)](https://rubyinstaller.org/downloads/)
@@ -37,7 +37,7 @@ _Поиск:arrow_right:Система:arrow_right:Дополнительные 
 ### 4. Далее скачиваем исходник QT 5.15.1
 - [Cкачать с сайта Qt](https://download.qt.io/official_releases/qt/5.15/5.15.1/single/qt-everywhere-src-5.15.1.zip)
 
-Разархивируйте его в папку Qt , для удобства создайте папку Src и разархивируйте туда 
+Разархивируйте его в папку Qt, для удобства создайте папку Src и разархивируйте туда 
 - Должно получиться вот так, после разахивирования
 
 ```C:\Qt\Src\qt-everywhere-src-5.15.1\```
@@ -73,7 +73,7 @@ C:\Qt\Src\qt-everywhere-src-5.15.1>
 ___ВЫПОЛНЕНИЕ МОЖЕТ ПРОХОДИТЬ ОЧЕНЬ ДОЛГО (4-6 ЧАСОВ), ВСЕ ЗАВИСИТ ОН МОЩНОСТЬИ ВАЩЕГО КОМПЬЮТЕРА , И ОТ КОЛИЧЕСТВА БИБЛИОТЕК КОТОРЫЕ ВАМ НУЖНЫ___
 
 ### 6. После завершения процедуры переходим в Qt Creator и запускаем какой-то проект
-- Переходим в :
+- Переходим в:
 
 _Проекты:arrow_right:Управление:arrow_right:Профили Qt:arrow_right:Добавить_
 
@@ -89,7 +89,7 @@ ____
 ```C:\Qt\5.15.1\mingw81_64_static\bin```___(БЕЗ ЗАМЕНЫ)___
 ____
 
-- Переходим в :
+- Переходим в:
 
 _Проекты:arrow_right:Управление:arrow_right:Комплекты:arrow_right:Добавить_
 
@@ -97,7 +97,7 @@ _Проекты:arrow_right:Управление:arrow_right:Комплекты:
 
 ![6](https://github.com/CEREGATOR/qtcreator_static_build/blob/main/6.PNG)
 
-- Переходим в Проекты, и добавляем сборку в проект , нажать на зеленый плюсик 
+- Переходим в Проекты, и добавляем сборку в проект, нажать на зеленый плюсик 
 
 ![7](https://github.com/CEREGATOR/qtcreator_static_build/blob/main/7.PNG)
 
