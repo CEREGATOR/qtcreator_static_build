@@ -123,6 +123,6 @@ _Проекты:arrow_right:Управление:arrow_right:Комплекты:
 ```configure -static -debug-and-release -platform win32-g++ -qt-zlib -qt-pcre -qt-libpng -qt-tiff -qt-webp -qt-libjpeg -qt-freetype -opengl desktop -no-angle -no-openssl -opensource -confirm-license -make libs -nomake tools -nomake examples -nomake tests -prefix C:\Qt\5.15.1\mingw81_64_static```
 - И заново создаем сборщик, как в [пункте 5](https://github.com/CEREGATOR/qtcreator_static_build#5-запускаем-cmd-и-переходим-в-папку)
 
-# НО ЕСТЬ ГОТОВЫЙ СКОМПИЛИРОВАННЫЙ [mingw81_64_static.rar](https://drive.google.com/file/d/1rxp86rDyh_zPjD79saI2g_UCNmlRX_hT/view?usp=sharing)
+# НО ЕСТЬ ГОТОВЫЙ СКОМПИЛИРОВАННЫЙ [mingw81_64_static.rar](https://github.com/CEREGATOR/qtcreator_static_build/releases/download/mingw81_64_static/mingw81_64_static.rar)
 
 ### 7. [Документация QT](https://doc.qt.io/qt-5/configure-options.html)
